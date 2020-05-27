@@ -1,12 +1,1 @@
-#Demo
-test1
-
-asdfads
-
-asdf
-
-a
-adsfadsfadsf
-asdfadsffffffff
-
-add second branch
+This repository mainly record the use of python for data analyst and machine learning
